@@ -4,3 +4,6 @@ function funkyRosesAndVioletsLovePoem2(roses, violets){
     }
    return -1;
 }
+
+// Runs the #CodetrySnippet
+funkyRosesAndVioletsLovePoem2("#FF0000", "#0000FF");
