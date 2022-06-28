@@ -1,7 +1,7 @@
 # CodetrySnippets Compositions
 
-Code can be poetry too! :-)
+`// Code can be poetry too! :-)`
 
-This repository has all functional and non-functional codetry compositions written in different programming languages for our social media accounts.
+This repository has all functional and non-functional *codetry* compositions written in different programming languages for our social media accounts.
 
-Note that these repository is open source and all the content can be used to share this new kind of art. Feel free to add more content in a pull request if you are inspired!
+Note that these compositions are open source and all content can be used to share this new kind of art that combines the beauty of poetry with the syntax of popular coding languages. Feel free to add more content in a pull request if you are inspired!
