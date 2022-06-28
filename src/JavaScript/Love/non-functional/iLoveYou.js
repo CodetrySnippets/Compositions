@@ -7,6 +7,3 @@ function iLoveYou(){
         console.log("My heart begins to race");
     }
 }
-
-// Runs the #CodetrySnippet
-iLoveYou();
