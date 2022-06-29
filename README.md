@@ -14,3 +14,8 @@ Note that these compositions are open source and all content can be used to shar
 ### JavaScript
 
 Poems are a simple function. All you have to do is copy the code, visit this [online tool](https://playcode.io/javascript/), paste the poetry script and to check the result in the `CONSOLE` section. If you are on a desktop, you can follow the same steps but if you seek to experience the *developer way* of running #Codetry, after copying the code, all you have to do is press `F12`, go to the `Console` tab. Then paste the content and hit `Enter`. Finally, you should see the result right away!
+
+##### Follow us ❤️
+###### Twitter: [@CodetrySnippets](https://twitter.com/CodetrySnippets)
+
+###### Instagram: [@CodetrySnippets](https://www.instagram.com/codetrysnippets)
